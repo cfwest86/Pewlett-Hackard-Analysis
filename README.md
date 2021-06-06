@@ -17,7 +17,7 @@ In anticipation of a large number of Pewlett Hackard's work force becoming eligi
 
 * over 90,000 employees will be eligible for retirement 
 * over 29,000 senior engineers will be retiring  
-* Only 2 managers will be retiring 
+* Only 2 department level managers will be retiring 
 * 1,500+ employees are eligible for the mentorship program 
 
 ## Summary 
